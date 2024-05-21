@@ -332,8 +332,7 @@ nav {
     
     @media screen and (min-width: calc(745px + 2 * (52px + 206px + 52px))) {
       header,
-      main,
-      footer {
+      main {
         max-width: var(--main-width);
         margin-left: auto;
         margin-right: auto;
