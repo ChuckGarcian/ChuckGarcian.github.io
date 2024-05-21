@@ -331,7 +331,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: inherit;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -347,11 +347,6 @@ nav {
       background-position-y: 87%, 87%, 87%;
     }
 
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
-
     @media (prefers-color-scheme: dark) {
       text-shadow: 0.03em 0 #151515, -0.03em 0 #151515, 0 0.03em #151515, 0 -0.03em #151515, 0.06em 0 #151515, -0.06em 0 #151515, 0.09em 0 #151515, -0.09em 0 #151515, 0.12em 0 #151515, -0.12em 0 #151515, 0.15em 0 #151515, -0.15em 0 #151515;
     }
@@ -363,6 +358,7 @@ nav {
     }
   }
 }
+
 //
 // .main
 //
