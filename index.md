@@ -9,10 +9,10 @@ I am Chuck Garcia, a rising senior at the University of Texas at Austin. I plan 
 [My Website](https://www.cs.utexas.edu/~chuckg/)
 
 ## About My Mentor
-My mentor, Dr. Margaret Martonosi from Princeton University, is a professor and researcher specializing in computer architecture and hardware-software interface issues in both classical and quantum computing.
 
+Dr. Margaret Martonosi is the Hugh Trumbull Adams '35 Professor of Computer Science at Princeton University. Dr. Martonosi's research interests are in computer architecture and hardware-software interface issues in both classical and quantum computing.
 
-[Dr. Margaret Martonosi's Website](https://www.princeton.edu/~mrm/)
+Please see [Dr. Martonosi's website](https://www.princeton.edu/~mrm/)
 
 ## About My Project
 [My Final Report](files/finalreport.pdf)
