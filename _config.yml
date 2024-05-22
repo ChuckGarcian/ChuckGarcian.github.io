@@ -1,11 +1,11 @@
-avatar: https://ChuckGarcian.github.io/images/headshot.jpg
-baseurl: /tufte-jekyll
+avatar: https://ChuckGarcian.github.io/assets/img/headshot.jpg
+baseurl: 
 title: Chuck Garcia
 description: DREU 2024 
-# subtitle:  DREU Project
-author: clay harmon
+subtitle:  DREU Project
 simple_search: http://google.com/search
 name: Chuck Garcia
+
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
