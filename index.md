@@ -9,7 +9,11 @@ I am Chuck Garcia, a rising senior at the University of Texas at Austin. I plan 
 Email: chuckgarcian@gmail.com
 
 ## About My Mentor
-Mentor info goes here.
+My mentor, Dr. Margaret Martonosi from Princeton University, is a professor and research specializing in issues in 
+
+Computer Architecture and hardware
+-software interface issues in classical and quantum computing
+[Dr. Margaret Martonosi's Website](https://www.princeton.edu/~mrm/)
 
 ## About My Project
 [My Final Report](files/finalreport.pdf)
