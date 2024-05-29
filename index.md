@@ -4,7 +4,7 @@ title: Summer 2020 DREU Project Site
 ---
 
 ## About Me
-I am Chuck Garcia, a rising senior at the University of Texas at Austin. I plan on graduating May 2026 with a degree in Computer Science. My main research interest areas are Computer Architecture and High Performance Computing.
+I am Chuck Garcia, a rising junio at the University of Texas at Austin. I plan on graduating May 2026 with a degree in Computer Science. My main research interest areas are Computer Architecture and High Performance Computing.
 
 [My Website](https://www.cs.utexas.edu/~chuckg/)
 
