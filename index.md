@@ -17,11 +17,9 @@ Please see [Dr. Martonosi's website](https://www.princeton.edu/~mrm/)
 
 ## About My Project
 
-This summer, I am working to develop benchmarks to run on various quantum computers. The primary goal is to develop scalable benchmarks that are suitable for both the smaller and error-prone quantum computers of today and the larger and fault-tolerant quantum computers of tomorrow.
+This summer, I've been collaborating with [Ellie Vogel](https://ellievogel.github.io/) and [Wei Tang](https://github.com/weiT1993) on a quantum circuit cutting framework. Our project builds upon Wei Tang's previous work, specifically his  framework. Our main contribution has been implementing a distributed version of CutQC's classical reconstruction component. With our contribution, we have been able to attain speedups on the original implementation. We have compiled our findings in a poster that will be presented at the [IEEE Quantum Week 2024](https://qce.quantum.ieee.org/2024/).
 
-
-
-[My Final Report](files/finalreport.pdf)
+Our conference paper/poster can be found here: [Final Report](files/finalreport.pdf)
 
 ## My Blog
 [My Blog](blog.html)
