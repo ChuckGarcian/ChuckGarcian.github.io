@@ -19,7 +19,7 @@ Please see [Dr. Martonosi's website](https://www.princeton.edu/~mrm/)
 
 This summer, I've been collaborating with [Ellie Vogel](https://ellievogel.github.io/) and [Wei Tang](https://github.com/weiT1993) on a quantum circuit cutting framework. Our project builds upon Wei Tang's previous work, specifically his  framework. Our main contribution has been implementing a distributed version of CutQC's classical reconstruction component. With our contribution, we have been able to attain speedups on the original implementation. We have compiled our findings in a poster that will be presented at the [IEEE Quantum Week 2024](https://qce.quantum.ieee.org/2024/).
 
-Our conference paper/poster can be found here: [Final Report](files/finalreport.pdf)
+Our conference paper/poster can be found here: [Final Report](files/QCE24_submission_882_paper_v2.pdf)
 
 ## My Blog
 [My Blog](blog.html)
